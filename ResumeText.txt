@@ -1,0 +1,39 @@
+SAI SANGAMESWARA AADITHYA KANDURI  
+(414)-639-9938 | aadithyak2000@gmail.com  | www.linkedin.com/in/aadithya18  
+EDUCATION  
+University of Wisconsin Milwaukee , Milwaukee , Wisconsin                                                         May 2024  
+Master of Computer Science                                                                                                            
+Anil Neerukonda Institute of Technology and Sciences , Visakhapatnam , India                              July 2021  
+Bachelor of Technology in Information Technology  
+• Class Representative for six semesters  
+EXPERIENCE  
+Specialist Programmer, Infosys , Hyderabad, India                                                    Aug 2021 – Aug 2022  
+• Developed aspects of Apple’s customer query management application . 
+• Worked with Java , Spring boot , REST API , and MySQL . 
+• Collaborated as an integral part of a team of 5 server -side developers.  
+• Learned Angular and Spring Microservices as part of Infosys training.  
+Full-Stack Developer Intern, Virtusa , Chennai, India                                               May 2020 – Aug 2020  
+• Developed a part of a loan moratorium application.  
+• Worked with Java, Spring boot , REST API , and MongoDB.  
+• Partnered with a Front -end intern to complete the application.  
+PROJECTS  
+Just-learn  
+• Developed an application that serves as an e -learning platform where the teacher can schedule classes 
+for students to attend online , share notes , and conduct quizzes or assignments.  
+• Combined video conferencing and other necessary features for the smooth functioning of the class.  
+• Collaborated with a team to make the application fully functional.  
+• Submitted and p ublished a paper based on the project.  
+• Languages and Tools used: Java, Spring Boot , Restful services , Angular , MongoDB . 
+Automatic Attendance Management  
+• Developed a f ace recognition model for an automatic attendance management system . 
+• Integrated Machine Learning models like OpenCV  will recognize people’s faces.  
+• Automaticall y mark ed attendance , convert ed it into an Excel sheet  and sent it to relevant authorities  
+via email.  
+SKILLS  
+• Languages : Java, C++, Python , C, JS 
+• Frameworks : Spring boot , REST API , Angular  
+• Database : MySQL, MongoDB  
+ACHIEVEMENTS  
+• Secured 2nd position in Smart India Hackathon at the college level.  
+• Secured a score of 7.5 in IELTS and 312 in GRE exams.  
+ 
