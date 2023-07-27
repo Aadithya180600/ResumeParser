@@ -17,9 +17,9 @@ Counterfactuals are generated using the genetic algorthm
 Download or clone the files to your space.
 Keep all the files in same folder.
 Make sure all the packages that needed are downloaded -  NLTK, Spacy, PyPDF2, docx2txt.
-For resume, Keep the resume that need to be parsed in the same folder with name 'resume.pdf' or give the appropraite path and extension in the Main.py file.
-Update the jd.txt file with the required job description for which the resume is used to apply.
-run the 'Main.py' file. 
+For resume, Keep the resume that need to be parsed in the same folder with name ```resume.pdf``` or give the appropraite path and extension in the Main.py file.
+Update the ```jd.txt``` file with the required job description for which the resume is used to apply.
+run the ```Main.py``` file. 
 Results will be displayed on the console.
 
 ## Detailed Explanation of All things:
